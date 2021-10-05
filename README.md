@@ -1,9 +1,11 @@
 #  C108118210 黃聖鈞
 ## 組員:C108118203 陳虹汝
-## 組員:C108118209 曾婉茜
-## 組員:C108118224 陳俞娟
-## 組員:C108118237 陳泓霖 🐴 🐕
-## 組員:C108118246 陳畇翔
+### 組員:C108118209 曾婉茜
+#### 組員:C108118224 陳俞娟
+##### 組員:C108118237 陳泓霖 🐴 🐕
+###### 組員:C108118246 陳畇翔
+
+~~123~~
 
 **C108118210_9.28**
 
@@ -32,6 +34,27 @@ def index
 puts "hello world"
 end
 ```
+
+##### Emaphasis, aka *italics* , with *asterisks* or *undersores.*
+##### emphasis, aka bold, with **asterisks** or **underscores.**
+##### Combined emphasis with **asterisks and *underscores* .**
+##### Strikethrough uses two tildes. ~~Scratch this~~ .
+---
+
+1.First ordered list item
+
+2.Another item
+    Unordered sub-list.
+    
+3.Actual numbers don't matter, just that it's a number
+   1. Ordered sub-list
+   2. 2nd
+
+4.And another item.
+   note 1
+   note 2
+   note 3
+
 >我叫黃聖鈞
 >>我來自高科
 >>>我來自烏魯木齊Represent 巴郎子
