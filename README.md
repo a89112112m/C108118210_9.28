@@ -5,8 +5,6 @@
 ##### 組員:C108118237 陳泓霖 🐴 🐕
 ###### 組員:C108118246 陳畇翔
 
-~~123~~
-
 **C108118210_9.28**
 
 `C108118210_9.28`
@@ -35,10 +33,10 @@ puts "hello world"
 end
 ```
 
-##### Emaphasis, aka *italics* , with *asterisks* or *undersores.*
-##### emphasis, aka bold, with **asterisks** or **underscores.**
-##### Combined emphasis with **asterisks and *underscores* .**
-##### Strikethrough uses two tildes. ~~Scratch this~~ .
+ Emaphasis, aka *italics* , with *asterisks* or *undersores.*
+ emphasis, aka bold, with **asterisks** or **underscores.**
+ Combined emphasis with **asterisks and *underscores* .**
+ Strikethrough uses two tildes. ~~Scratch this.~~
 ---
 
 1.First ordered list item
